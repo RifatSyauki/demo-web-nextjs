@@ -1,0 +1,44 @@
+.top{
+	color: #fff;
+	height: 100vh;
+	object-fit: cover;
+	background-size: cover;
+	background-image: url('/image/15040737.webp');
+	display: flex;
+}
+
+.text-top {
+	margin: 30vh 50px;
+	padding: 60px;
+	background: rgba(255, 255, 255, 0.08);
+	box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+	backdrop-filter: blur(3.1px);
+	-webkit-backdrop-filter: blur(3.1px);
+	border-radius: 20px;
+
+/*	justify-content: space-between;*/
+}
+
+.h1-text-top {
+	font-size: 25px;
+}
+
+.h1-text-top, .p-text-top {
+	margin: 20px 0px;
+}
+
+.sl1 {
+	padding: 80px;
+}
+
+.h1-sl1-text, .p-sl1-text {
+	margin: 15px;
+/*	text-align: center;*/
+}
+
+.sl2 {
+	height: 700px;
+	background-image: url('/image/67245545.webp');
+	object-fit: cover;
+	background-size: cover;
+}
